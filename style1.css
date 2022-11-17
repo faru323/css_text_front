@@ -1,0 +1,53 @@
+#header{
+    color: rgb(185, 27, 72);
+    text-align: center;
+    opacity:0.9;
+}
+#header1{
+    color: rgb(185, 27, 72);
+    text-align: center;
+    opacity:0.9;
+}
+.navbar{
+    text-align: center;
+    margin-left: -40px;
+
+}
+.navbar__item{
+    
+   list-style:none;
+   display:flex; 
+   justify-content: center;
+   
+}
+.text-blueviolet{
+    color: rgb(123, 39, 203);
+    opacity:0.8;
+}
+.text-burlywood{
+    color:rgb(190, 165, 65);
+}
+p{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font: 1em sans-serif;
+}
+ 
+.a_top_hypers{
+    margin-left: 20px;
+    
+}
+.music{
+    margin-left: 20px;
+    display: inline-block;
+    text-align: left;
+}
+.center{
+
+    text-align: center;
+}
+#about{
+    margin-left: 100px;
+
+
+}
